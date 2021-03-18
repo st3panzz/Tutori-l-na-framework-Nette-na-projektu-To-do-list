@@ -13,4 +13,4 @@ Naší cílovou skupinou uživatelů může být kdokoli, kdo si chce rychle a p
 Tento tutoriál bude pro lidi, kteří se chtějí naučit něco nového. Konkrétně se bude jednat o tutoriál na základy ve frameworku Nette. Uživatelé budou schopni vytvořit jednoduchou webovou stránku v tomto ne tak známém frameworku a přitom se naučit jeho základy, kdyby se mu chtěli věnovat a plně se s ním naučit. Bude to pro ně takový úvod a začátek do tohoto frameworku.
 
 Popsané wireframy: https://github.com/st3panzz/Tutorial-na-framework-Nette-na-projektu-To-do-list/blob/main/docs/Wireframy.md                                                     
-Persony: https://github.com/st3panzz/Tutorial-na-framework-Nette-na-projektu-To-do-list/blob/main/docs/Persony.md
+Persony a scénáře použití: https://github.com/st3panzz/Tutorial-na-framework-Nette-na-projektu-To-do-list/blob/main/docs/Persony.md
