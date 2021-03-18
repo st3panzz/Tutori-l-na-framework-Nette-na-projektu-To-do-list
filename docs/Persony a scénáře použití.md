@@ -9,6 +9,6 @@
 
 # Scénáře použití: 
 - přečte si tutoriál a zkusí si něco naprogramovat                                                                                                                                 
-- projde si nějakou určitou část nebo kapitolu                                                                                                                                     
+- projde si nějakou určitou část nebo kapitolu a podle ní něco udělá                                                                                                               
 - přečte si to, ale nic nebude programovat                                                                                                                                         
 - přečte si tutoriál a udělá si podle něj svůj vlastní projekt 
