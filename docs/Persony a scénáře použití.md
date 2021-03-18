@@ -12,3 +12,4 @@
 - projde si nějakou určitou část nebo kapitolu a podle ní něco udělá                                                                                                               
 - přečte si to, ale nic nebude programovat                                                                                                                                         
 - přečte si tutoriál a udělá si podle něj svůj vlastní projekt 
+- projde si tutoriál a udělá podle něj vzorový projekt
