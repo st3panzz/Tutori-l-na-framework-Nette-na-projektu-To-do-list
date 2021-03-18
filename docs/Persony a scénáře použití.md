@@ -8,7 +8,7 @@
 | Proč se chtít naučit s frameworkem Nette? | Je to něco nového. Chce se s tím naučit a používat to. Chtěl by si v něm zkusit přepracovat jeho stávající projekt, který je v jiném frameworku. | Čistě ze zvědavosti chce vyzkoušet něco nového a ne až tak známého. Má v plánu ho zkusit použít na jeden menší projekt, který bude teprve vytvářet a tím si tento framework vyzkoušet a porovnat ho. |
 
 # Scénáře použití: 
-přečte si tutoriál a zkusí si něco naprogramovat                                                                                                                                   
-projde si nějakou určitou část nebo kapitolu                                                                                                                                       
-přečte si to, ale nic nebude programovat                                                                                                                                           
-přečte si tutoriál a udělá si podle něj svůj vlastní projekt 
+- přečte si tutoriál a zkusí si něco naprogramovat                                                                                                                                 
+- projde si nějakou určitou část nebo kapitolu                                                                                                                                     
+- přečte si to, ale nic nebude programovat                                                                                                                                         
+- přečte si tutoriál a udělá si podle něj svůj vlastní projekt 
