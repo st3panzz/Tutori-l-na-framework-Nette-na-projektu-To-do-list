@@ -1,5 +1,4 @@
 # Tutoriál na framework Nette na projektu To do list
-=================
 
 ## Zadání                                                                                                                                                                        
 Naším cílem je vytvořit tutoriál na framework Nette, ve kterém se naučíme základy tohoto frameworku a podle kterého budeme dělat projekt To do list. Chceme dělat vzorovou aplikaci podle tutoriálu z tohoto frameworku. S tímto frameworkem se také seznamujeme a proto na něj dělámé tento tutoriál, jehož výsledkem bude projekt To do list.
