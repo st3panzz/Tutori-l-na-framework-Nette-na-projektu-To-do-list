@@ -3,7 +3,7 @@
 {var $value = htmlspecialchars(strip_tags(filter_input(INPUT_POST, "value"))) }
 {var $id = htmlspecialchars(strip_tags(filter_input(INPUT_POST, "id")))}
 {if $value != "" && $id != ""}
-    {var $servername = "localhost"}
+    {var $servername = "127.0.0.1"}
     {var $username = "root"}
     {var $password = ""}
     {var $dbname = "to_do_list"}
