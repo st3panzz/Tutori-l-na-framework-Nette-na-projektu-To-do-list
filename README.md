@@ -15,4 +15,5 @@ Tento tutoriál bude pro lidi, kteří se chtějí naučit něco nového. Konkr�
 Popsané wireframy: https://github.com/st3panzz/Tutorial-na-framework-Nette-na-projektu-To-do-list/blob/main/docs/Wireframy.md                                                     
 Persony a scénáře použití: https://github.com/st3panzz/Tutorial-na-framework-Nette-na-projektu-To-do-list/blob/main/docs/Persony%20a%20sc%C3%A9n%C3%A1%C5%99e%20pou%C5%BEit%C3%AD.md                                                                                                     
 Class diagram: https://github.com/st3panzz/Tutorial-na-framework-Nette-na-projektu-To-do-list/blob/main/docs/Class-Diagram.PNG                                                     
-ER model: 
+ER model:                                                                                                                                                                           
+Technická dokumentace projektu: https://github.com/st3panzz/Tutorial-na-framework-Nette-na-projektu-To-do-list/blob/main/docs/Dokumentace%20projektu%20ve%202.%20pololet%C3%AD.doc
