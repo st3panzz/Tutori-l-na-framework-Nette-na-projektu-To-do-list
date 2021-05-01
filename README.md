@@ -17,4 +17,4 @@ Persony a scénáře použití: https://github.com/st3panzz/Tutorial-na-framewor
 Class diagram: https://github.com/st3panzz/Tutorial-na-framework-Nette-na-projektu-To-do-list/blob/main/docs/Diagram.png                                                   
 Class diagram 2: https://github.com/st3panzz/Tutorial-na-framework-Nette-na-projektu-To-do-list/blob/main/docs/Class-Diagram-v2.PNG                                                 
 ER model: https://github.com/st3panzz/Tutorial-na-framework-Nette-na-projektu-To-do-list/blob/main/docs/E-R%20model.png                                                             
-Dokumentace projektu: https://github.com/st3panzz/Tutorial-na-framework-Nette-na-projektu-To-do-list/blob/main/docs/Dokumentace%20projektu%20ve%202.%20pololet%C3%AD.doc
+Dokumentace projektu (tutoriál): 
